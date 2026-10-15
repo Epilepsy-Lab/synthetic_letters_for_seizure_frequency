@@ -1,1 +1,3 @@
-# synthetic_letters_for_seizure_frequency
+# synthetic letters for seizure frequency
+
+We will release the data soon.
